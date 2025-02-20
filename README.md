@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, PyTorch**
 
-- 💬 Ask me about **C, Java, Python, ML/DL, Cybersecurity**
+- 💬 Ask me about **C, Python, ML/DL, Cybersecurity**
 
 - 📫 How to reach me **serhat7522kilic@gmail.com**
 
