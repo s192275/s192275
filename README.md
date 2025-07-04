@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Serhat KILIÇ.</h1>
-<h3 align="center">A passionate ML/Deep Learning, Cybersecurity Enthusiastic and Computer Engineering Student from Turkey.</h3>
+<h3 align="center">A passionate ML/Deep Learning, Cybersecurity Enthusiastic from Turkey.</h3>
 <img align="right" alt="Binary" width ="400" src="https://giffiles.alphacoders.com/360/36026.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s192275&label=Profile%20views&color=0e75b6&style=flat" alt="s192275" /> </p>
